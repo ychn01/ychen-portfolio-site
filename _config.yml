@@ -1,0 +1,24 @@
+title: Yuxi Chen's Portfolio
+description: A collection of data science projects and coursework
+email: yuxichen11@gmail.com
+baseurl: "" # leave empty unless deploying in a subfolder
+url: "https://ychn01.github.io"
+
+theme: jekyll-theme-cayman
+
+# Navigation
+header_pages:
+  - index.md
+  - projects.md
+
+# Author info
+author:
+  name: Yuxi Chen
+  email: yuxichen11@gmail.com
+
+# Hide from search engines
+defaults:
+  - scope:
+      path: ""
+    values:
+      robots: noindex, nofollow
