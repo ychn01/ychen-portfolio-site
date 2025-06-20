@@ -1,0 +1,14 @@
+
+Personal Income.csv
+https://www.bea.gov/data/income-saving/personal-income-by-state
+
+Unemployment Rate:
+https://fred.stlouisfed.org/searchresults/?st=unemployment&t=state&ob=sr&od=desc
+
+Rental Vacancy Rate:
+https://fred.stlouisfed.org/searchresults/?st=rental%20vacancy
+
+House Price Indexes:
+https://fred.stlouisfed.org/categories/32261
+
+
