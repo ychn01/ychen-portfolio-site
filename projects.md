@@ -1,26 +1,28 @@
 ---
 layout: default
-title: Projects
+title: Projects & Coursework
 ---
 
 # 💼 Projects
 
-A deeper look at selected data projects in my portfolio.
+## [Value Determinant Tool – U.S. Housing Market](projects/Value-Determinant-Tool---US-Housing-Market/)
+Analyzed real estate price drivers across major U.S. cities using data visualization and regression modeling.
+
+## [Employee Workload Estimator – Practicum](projects/Estimator-Project---Practicum/)
+Performed EDA to estimate project workloads and improve resource planning.
+
+## [Blackjack Simulator](projects/BlackJack-Simulator/)
+Built a Python-based simulation to model Blackjack strategy and probability.
 
 ---
 
-## 🏠 Value Determinant Tool – U.S. Housing Market  
-A data-driven analysis of public datasets to identify regional housing price factors using Python, pandas, and matplotlib.  
-[View Folder ➝](projects/Value-Determinant-Tool---US-Housing-Market/)
+# 🎓 Coursework
 
----
+## [Computational Data Analysis](coursework/Computational-Data-Analysis-/)
+Statistical computing and visualization in R.
 
-## 📊 Employee Workload Estimator – Practicum  
-Performed exploratory data analysis and built dashboards to model project workloads and team resource demands.  
-[View Folder ➝](projects/Estimator-Project---Practicum/)
+## [Machine Learning for Trading](coursework/Machine-Learning-for-Trading/)
+Algorithmic trading using supervised ML techniques.
 
----
-
-## 🎲 Blackjack Simulator  
-Simulated Blackjack rounds in Python to understand optimal strategy using probability models.  
-[View Folder ➝](projects/BlackJack-Simulator/)
+## [Regression](coursework/Regression/)
+Explored linear, logistic, and nonlinear regression techniques in Python and R.
